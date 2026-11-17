@@ -1,4 +1,3 @@
-
 public class KillCilantro {
    public static String killCilantro(String text) { // replace the word 'cilantro' to 'parsley'
       String result = "";
