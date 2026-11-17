@@ -15,7 +15,6 @@ public class KillCilantro {
       return result;
    }
    public static void main(String[] args) {
-      System.out.println("cilantrotest");
       System.out.println(killCilantro("testcilantrotest"));
       System.out.println(killCilantro("cilantrotest"));
       System.out.println(killCilantro("nothinghere"));
